@@ -1,0 +1,44 @@
+{
+    "personajes": [
+        {
+            "id": 1,
+            "nombre": "Personaje1",
+            "tipo": "Atacante",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        },
+        {
+            "id": 2,
+            "nombre": "Personaje2",
+            "tipo": "Defensor",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        }
+    ],
+    "armas": [
+        {
+            "id": 1,
+            "nombre": "Arma1",
+            "tipo": "Rifle",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        },
+        {
+            "id": 2,
+            "nombre": "Arma2",
+            "tipo": "Pistola",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        }
+    ],
+    "mapas": [
+        {
+            "id": 1,
+            "nombre": "Mapa1",
+            "tipo": "Asalto",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        },
+        {
+            "id": 2,
+            "nombre": "Mapa2",
+            "tipo": "Control",
+            "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..."
+        }
+    ]
+}
