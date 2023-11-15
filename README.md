@@ -1,6 +1,21 @@
 # ApiJsonServerGltich
 
-## **Pasos del Tutorial:**
+## **Pasos para Implementar directamente a Glitch desde este repositorio.**
+
+1. Regístrese en Glitch.
+   
+2. Haga clic en Nuevo proyecto.
+   
+3. Haga clic en Importar desde GitHub.
+   
+4. Pegue https://github.com/djsq200599/ApiJsonServerGltich.git en la entrada del URL y haga clic en Aceptar.
+   
+5. Espere a que se configure.
+   
+6. Presione el botón Share para obtener su URL del sitio activo. Debería ser algo como por ejemplo: https://api-json-server.glitch.me. Y tu base de datos estará en https://api-json-server.glitch.me/posts.
+   
+
+## **Pasos para crear tu propio proyecto subirlo a tu repositorio de GitHub e implementar a Glitch:**
 
 ### Paso 1: Crear Archivos en Visual Studio Code.
 
