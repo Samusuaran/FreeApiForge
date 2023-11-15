@@ -86,7 +86,7 @@ server.listen(PORT, () => {
 ## **Paso 5: Inicializar Repositorio y Hacer Commit en GitHub.**
 
 
-1. Inicializa un nuevo repositorio en GitHub.
+1. Inicializa un nuevo repositorio en [GitHub](https://github.com/)..
 
 2. Abre la terminal de Visual Studio Code.
 
