@@ -1,4 +1,4 @@
-# ApiJsonServerGltich
+# ApiJsonServerGlitch
 
 ## **Pasos para Implementar directamente a Glitch desde este repositorio.**
 
