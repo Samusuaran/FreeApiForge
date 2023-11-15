@@ -19,16 +19,16 @@
 ```
 {
   "personajes": [
-    { "id": 1, "nombre": "Personaje1", "tipo": "Atacante", "imagen": "url_de_la_imagen1" },
-    { "id": 2, "nombre": "Personaje2", "tipo": "Defensor", "imagen": "url_de_la_imagen2" }
+    { "id": 1, "nombre": "Personaje1", "tipo": "Atacante", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." },
+    { "id": 2, "nombre": "Personaje2", "tipo": "Defensor", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." }
   ],
   "armas": [
-    { "id": 1, "nombre": "Arma1", "tipo": "Rifle", "imagen": "url_de_la_imagen3" },
-    { "id": 2, "nombre": "Arma2", "tipo": "Pistola", "imagen": "url_de_la_imagen4" }
+    { "id": 1, "nombre": "Arma1", "tipo": "Rifle", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." },
+    { "id": 2, "nombre": "Arma2", "tipo": "Pistola", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." }
   ],
   "mapas": [
-    { "id": 1, "nombre": "Mapa1", "tipo": "Asalto", "imagen": "url_de_la_imagen5" },
-    { "id": 2, "nombre": "Mapa2", "tipo": "Control", "imagen": "url_de_la_imagen6" }
+    { "id": 1, "nombre": "Mapa1", "tipo": "Asalto", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." },
+    { "id": 2, "nombre": "Mapa2", "tipo": "Control", "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA..." }
   ]
 }
 ```
