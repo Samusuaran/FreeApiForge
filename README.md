@@ -4,9 +4,9 @@
 
 1. Regístrese en Glitch.
    
-2. Haga clic en Nuevo proyecto.
+2. Haga clic en New project.
    
-3. Haga clic en Importar desde GitHub.
+3. Haga clic en Import from GitHub.
    
 4. Pegue https://github.com/djsq200599/ApiJsonServerGltich.git en la entrada del URL y haga clic en Aceptar.
    
@@ -103,7 +103,7 @@ server.listen(PORT, () => {
 
 1. Ve a [Glitch](https://glitch.com/).
 
-2. Crea un nuevo proyecto y selecciona "Importar desde GitHub".
+2. Crea un New project y selecciona "Import from GitHub".
 
 3. Ingresa la URL de tu repositorio y sigue las instrucciones para importar.
 
