@@ -1,4 +1,4 @@
-![Logo]( https://github.com/djsq200599/FreeApiForge/blob/main/FreeApiForge.png )
+![Logo]( https://github.com/djsq200599/FreeApiForge/blob/main/FreeApiForgeLogo.png )
 
 <p align="center">
   ¡Forja tu API con maestría, esculpe su grandeza en la red!
