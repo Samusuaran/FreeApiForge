@@ -117,6 +117,8 @@ server.listen(PORT, () => {
 
 3. Ingresa la URL de tu repositorio y sigue las instrucciones para importar.
 
+¡Y eso es todo! Ahora tienes tu propia API en Glitch utilizando JSON Server. Puedes realizar solicitudes a las rutas específicas para obtener o modificar datos. ¡Diviértete explorando y personalizando tu API!.
+
 # Implementación en AWS
 
 # Configuración de un servidor JSON en AWS
@@ -207,4 +209,5 @@ Si estás experimentando dificultades para identificar el problema, puedes ejecu
 Verifica los registros: Si el servicio no se inicia correctamente, revisa los registros detallados del servicio para obtener información adicional sobre el error:
 
 journalctl -u json-server.service
-¡Y eso es todo! Ahora tienes tu propia API en Glitch utilizando JSON Server. Puedes realizar solicitudes a las rutas específicas para obtener o modificar datos. ¡Diviértete explorando y personalizando tu API!.
+
+¡Y eso es todo! Ahora tienes tu propia API en una instancia virtual de AWS utilizando JSON Server. Puedes realizar solicitudes a las rutas específicas para obtener o modificar datos. ¡Diviértete explorando y personalizando tu API!.
